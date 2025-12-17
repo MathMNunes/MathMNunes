@@ -32,8 +32,3 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MathMNunes&theme=tokyo-night&hide_border=true" alt="activity graph" />
 </p>
 
-<h2 align="left">Conquistas</h2>
-
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=MathMNunes&theme=gruvbox&no-frame=true&row=2&column=3" alt="trophies" />
-</p>

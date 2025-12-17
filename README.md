@@ -1,9 +1,3 @@
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=MathMNunes&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
----
-
 <h2 align="left">Techs</h2>
 
 <p align="left">

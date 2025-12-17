@@ -1,8 +1,3 @@
-<h1 align="left">Olá, eu sou o Matheus 👋</h1>
-<p align="left">
-  Backend/Fullstack • APIs • Banco de Dados • TypeScript/Python
-</p>
-
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=MathMNunes&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
